@@ -1,97 +1,61 @@
-<!-- Animated Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a1cff,100:00ff99&height=200&section=header&text=Hi%20I'm%20Narsimha%20(Narsi)%20👋&fontSize=35&fontColor=ffffff&animation=fadeIn" />
-</p>
-
-<p align="center">
-  <b>Aspiring Software Engineer | Cybersecurity Enthusiast</b><br/>
-  🚀 100 Days Challenge to Become Job-Ready
-</p>
-
----
-
-## 🚀 About Me
-
-👨‍💻 I am *Narsimha Bagula (Narsi), a disciplined learner preparing for **software engineering roles*.  
-I focus on *consistent learning, real-world projects, and daily improvement*.
-
-🔹 Coding  
-🔹 Cybersecurity fundamentals  
-🔹 Problem solving  
-🔹 Fitness & discipline  
-
----
-
-## 🎯 100 Days Challenge (Ongoing)
-
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
-</p>
-
-During this challenge, I:
-- 💻 Code daily  
-- 🧠 Practice DSA & fundamentals  
-- 🛡️ Learn cybersecurity basics  
-- 🏗️ Build real-world projects  
-- 💪 Maintain fitness & discipline  
-
-📌 *Goal:* Secure an entry-level *Software Engineer role*
-
----
-
-## 🛠️ Tech Stack
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,java,c,linux,git,github,vscode&theme=dark" />
-</p>
-
-*Languages:* Python, Java (Basics), C (Basics)  
-*Core CS:* DSA, OOP, OS, DBMS  
-*Security:* Linux, Networking basics  
-*Tools:* Git, GitHub, VS Code  
-
----
-
-## 📂 Projects
-
-🚧 *Currently building projects as part of my 100 Days Challenge*
-
-- 🔹 Software development mini-projects  
-- 🔹 Automation & security-focused projects  
-
-📌 Clean code • Proper README • Practical use cases
-
----
-
-## 📈 GitHub Stats (Animated)
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Narsimha-217r&show_icons=true&theme=tokyonight" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D4FF&center=true&vCenter=true&width=500&lines=ROOT@NARSIMHA:~$+WHOAMI;Cybersecurity+Specialist;Python+Automation+Expert;Telugu+Tech+Creator" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Narsimha-217r&theme=tokyonight" />
-</p>
-
----
-
-## 🌐 Connect With Me
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/narsimha-bagula-141854227/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <a href="https://github.com/Narsimha-217r">
+    <img src="https://github-readme-stats.vercel.app/api?username=Narsimha-217r&show_icons=true&theme=tokyonight&rank_icon=github&border_radius=10" alt="Narsimha's Stats" height="185">
   </a>
-  <a href="https://instagram.com/NarsiCodes" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-NarsiCodes-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  <a href="https://github.com/Narsimha-217r">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Narsimha-217r&layout=compact&theme=tokyonight&border_radius=10" alt="Top Languages" height="185">
   </a>
 </p>
 
 ---
 
-## 💡 Philosophy
+### 🟢 [SYSTEM STATUS: ACTIVE]
 
-> “Consistency beats talent when talent doesn’t stay consistent.”
+**A tech-driven mind from Telangana, India.** I specialize in building secure Python environments and exploring the depths of ethical hacking. When I'm not writing automation scripts, I'm educating the next generation of developers through Telugu tech content.
+
+- ⚡ **Current Mission:** Mastering Penetration Testing & Django Security.
+- 🛠️ **Building:** `port-scanner` — A high-speed vulnerability detection tool.
+- 🎙️ **Sharing:** Tech tutorials for 100+ subscribers on YouTube.
+- 🔭 **Open to:** Security Audits & Backend Development roles.
 
 ---
 
-### ⭐ For Recruiters
+### 🖥️ Tech Stack & Arsenal
+
+| Security & Tools | Development | Cloud & OS |
+| :--- | :--- | :--- |
+| ![Nmap](https://img.shields.io/badge/Nmap-E23B39?style=flat-square&logo=nmap&logoColor=white) ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white) | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Kali](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kali-linux&logoColor=white) |
+| ![Burp](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=portswigger&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) | ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white) | ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) |
+
+---
+
+### 🛡️ Featured Security Projects
+
+> **[Port Scanner v2.0](https://github.com/Narsimha-217r/port-scanner)** > *A Python-based multi-threaded scanner that identifies open ports and maps service vulnerabilities.* > `Python` • `Nmap` • `Socket Programming`
+
+> **[YouTube Analytics Bot](https://github.com/Narsimha-217r)** > *Automated data scraper for channel performance tracking and SEO optimization.* > `Python` • `Google API` • `Automation`
+
+---
+
+### 📈 Activity & Trophies
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Narsimha-217r&theme=tokyonight&hide_border=true" width="48%" /> 
+  <img src="https://github-profile-trophy.vercel.app/?username=Narsimha-217r&theme=tokyonight&no-frame=true&column=3" width="48%" />
+</p>
+
+---
+
+### 🤝 Establish Connection
+<p align="center">
+<a href="YOUR_LINKEDIN"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="25"></a>
+<a href="YOUR_YOUTUBE"><img src="https://img.shields.io/badge/-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" height="25"></a>
+<a href="mailto:your-email@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="25"></a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Narsimha-217r&color=00D4FF&style=flat-square&label=PROFILE+VIEWS" />
+</p>
